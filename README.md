@@ -1,6 +1,6 @@
 # Presentation-about-Skype
 
-! [https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Skype_logo_%28fully_transparent%29.svg/1200px-Skype_logo_%28fully_transparent%29.svg.png]
+! [Skype](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Skype_logo_%28fully_transparent%29.svg/1200px-Skype_logo_%28fully_transparent%29.svg.png)
 
 ## Kurze Infos 
 
