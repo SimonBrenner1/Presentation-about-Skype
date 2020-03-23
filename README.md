@@ -7,17 +7,21 @@
 *  Skype ist ein kostenloses Online Kommunikationstool.
 *  Microsoft ist der Herausgeber und Entwickler dieser Software. 
 *  Es wird weltweit genutzt.
+  Auch ich nutze Skype.  
+  
 **************************************************************
 
 **Skype ist auf vielen Windows Geräten schon vorinstalliert**
 
-   Ansonsten kann man auf dieser Webseite Skype herunterladen:   
+   Ansonsten kann man auf der Webseite von Skype die Software kostenlos herunterladen:   
    [Hier zum Download](https://www.skype.com/de)  
    
 ***************************************************************
 
-| Audio- und HD-Videoanrufe |   +++ | 
-| Intelligentes Messaging | +++ |
-| Bildschirmübertragung | +++ |
-| Anrufaufzeichnung und Live-Untertitel | +++ |
-| Private Unterhaltungen | +++ |
+  Weitere Features | Sind diese nützlich | benutze ich diese persönlich
+  --- | --- | ---
+  Audio- und HD-Videoanrufe | Standard | oft  
+  Intelligentes Messaging | für diverse Funktionen ja | weniger  
+  Bildschirmübertragung | sehr nützlich | weniger  
+  Anrufaufzeichnung und Live-Untertitel | sehr nützlich | nie  
+  Private Unterhaltungen | nützlich | nie  
