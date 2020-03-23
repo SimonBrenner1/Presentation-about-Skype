@@ -11,4 +11,4 @@
 **Skype ist auf vielen Windows Geräten schon vorinstalliert**
 
    Ansonsten kann man auf dieser Webseite Skype herunterladen:   
-   (https://www.skype.com/de/|www.skype.com)   
+   [Hier zum Download](https://www.skype.com/de)   
